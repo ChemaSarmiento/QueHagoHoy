@@ -84,7 +84,7 @@ def insert_data():
                 start_time,
                 end_time,
                 tags,   # ARRAY en Postgres
-                venue_id,
+                venue_id, 
             )
         )
 
